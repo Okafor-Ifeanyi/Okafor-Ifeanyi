@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okafor-Ifeanyi
-- 👀 I’m interested in Backend web Dev .py
-- 🌱 I’m currently working on a web app using Python / Fastapi / Pytests like now, wish me luck
+- 👀 Python Developer .pypi
+- 🌱 I’m currently working on a Web Apps on Python / Fastapi / Pytests like now, wish me luck
 - 💞️ I’m looking to collaborate on Project with my friends and grab a lot of experiences on as much projects as i can
 - 📫 How to reach me whatsapp - 08129741530 Email - zeusifeanyi058@gmail.com
 
