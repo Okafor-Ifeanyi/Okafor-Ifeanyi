@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ifeanyi Okafor aka BIO / prog_bio
 - 👀 Python Developer .pypi
-- 🌱 Currently majorly working on building a CRM using django, wish me luck
+- 🌱 Currently and majorly working on building a CRM using django, wish me luck
 - 💞️ I’m looking to collaborate on Project with my friends and grab a lot of experiences on as much projects as i can
 - 📫 Email - zeusifeanyi058@gmail.com
 
