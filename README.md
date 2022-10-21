@@ -2,7 +2,7 @@
 - 👀 Python Developer .pypi
 - 🌱 Paused my development of building a CRM with django to join "Genesys 20 Days coding challenge" frontend role cause I was really curious on how far I could go with frontend so I put my frontend skill to test, wish me luck
 - 💞️ I’m looking to collaborate on Project with my friends and grab a lot of experiences on as much projects as i can
-- 📫 Email - zeusifeanyi058@gmail.com, linkedin - https://www.linkedin.com/in/ifeanyi-okafor-b26bb6244/, twitter - https://twitter.com/prog_BIO_
+- 📫 Email - zeusifeanyi058@gmail.com, linkedin - https://www.linkedin.com/in/ifeanyi-okafor-b26bb6244/, twitter - https://twitter.com/prog_BIO_/
 - 
 
 <!---
