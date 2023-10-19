@@ -1,6 +1,5 @@
 # Hola, Meet Ifeanyi! 👋
-Ifeanyi is a backend software engineer🙂 <br>Two words that best describe him? Proactive and Result-driven<br>He likes to get things done WELL and QUICKLY.<br><br>He is a master at his craft. When he is not designing product architecture or coding<br>He offers mentorships to tech youngies.<br>In terms of personality, he is easygoing and probably one of the most energetic individuals you may ever meet!<br><br>
-
+Ifeanyi is a backend software engineer🙂 <br>Two words that best describe him? Proactive and Result-driven<br>He likes to get things done WELL and QUICKLY.<br><br>He is a master at his craft. When he is not designing product architecture or coding<br>He offers mentorships to tech youngies.<br>In terms of personality, he is easygoing and probably one of the most energetic individuals you may ever meet!!<br><br>
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prog_bio_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ifeanyi-okafor-bio/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tkHGKAXG)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zeusifeanyi058) 
